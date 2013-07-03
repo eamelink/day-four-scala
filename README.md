@@ -1,4 +1,4 @@
-day-four-scala
-==============
+Day 4: Scala
+============
 
-5 languages in 5 days, day four: Scala
+This repository contains sample code and excercises for the Scala day of the UvA summer school.
