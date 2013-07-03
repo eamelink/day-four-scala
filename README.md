@@ -7,6 +7,11 @@ This repository contains sample code and excercises for the Scala day of the UvA
 Scala resources
 ---------------
 
+*Wiki:*
+* [day-four-scala/wiki](https://github.com/eamelink/day-four-scala/wiki)
+* [Setup page](https://github.com/eamelink/day-four-scala/wiki/Setup)
+* [Puzzle assignment page](https://github.com/eamelink/day-four-scala/wiki/Puzzle)
+
 *Main website:*
 * [scala-lang.org](http://www.scala-lang.org/)
 
