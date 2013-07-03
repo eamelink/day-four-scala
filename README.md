@@ -8,8 +8,12 @@ Scala resources
 ---------------
 
 *Main website:*
-[scala-lang.org](http://www.scala-lang.org/)
+* [scala-lang.org](http://www.scala-lang.org/)
 
 *Tutorials:*
-[Functional Programming Principles Coursera Course](https://www.coursera.org/course/progfun)
-[Twitter's Scala School](http://twitter.github.io/scala_school/)
+* [Functional Programming Principles Coursera Course](https://www.coursera.org/course/progfun)
+* [Twitter's Scala School](http://twitter.github.io/scala_school/)
+
+*Functional programming exercises:*
+* [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+
