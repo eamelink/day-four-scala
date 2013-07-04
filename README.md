@@ -22,7 +22,7 @@ Scala resources
 *Functional programming exercises:*
 * [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
-*Presenations*
+*Presentations*
 * [2 Building a program!](https://docs.google.com/presentation/d/18cSh921BBf60ngDPFrl5ofvF9VXTBuXtd7v3H4ihCpE/pub?start=false&loop=false&delayms=3000)
 * [3 Assignment solution walk-through](https://docs.google.com/presentation/d/1OptwsEmF5nvgvOTeTmp-174DxqgyZLtxbJCuhvKmArE/pub?start=false&loop=false&delayms=3000)
 * [4 Cool stuff!](https://docs.google.com/presentation/d/1HvhT9ZlmQILk_wQUPB6CtWkDI3W3XnGL8Kf-ikHFTCk/pub?start=false&loop=false&delayms=60000)
